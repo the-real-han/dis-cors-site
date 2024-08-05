@@ -1,0 +1,24 @@
+{
+  "name": "dis-cors-site",
+  "version": "1.0.0",
+  "description": "DisCORS's Home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-real-han/dis-cors-site.git"
+  },
+  "author": "Han Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-real-han/dis-cors-site/issues"
+  },
+  "homepage": "https://github.com/the-real-han/dis-cors-site#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "vercel": "^35.2.3"
+  }
+}
